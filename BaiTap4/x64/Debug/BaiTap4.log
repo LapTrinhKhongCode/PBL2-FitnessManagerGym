@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (BaiTap4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Address.cpp
+  Admin.cpp
+C:\Users\Admin\Downloads\DonePBL2\BaiTap4\Admin.cpp(1111,11): warning C4129: 'E': unrecognized character escape sequence
+  Date.cpp
+  DichVu.cpp
+  GiaoVien.cpp
+C:\Users\Admin\Downloads\DonePBL2\BaiTap4\GiaoVien.cpp(7,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  LopTap.cpp
+  main.cpp
+  KhachHang.cpp
+C:\Users\Admin\Downloads\DonePBL2\BaiTap4\KhachHang.cpp(340,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ThietBi.cpp
+  ThongTinCaNhan.cpp
+  Zumba.cpp
+  Generating Code...
+  BaiTap4.vcxproj -> C:\Users\Admin\Downloads\DonePBL2\BaiTap4\x64\Debug\Gym.exe

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Address" Collapsed="true">
+    <Position X="6.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAIEAAAABAAAwQAAAAAAAAAAAAABAAAEAAAAACAEAA=</HashCode>
+      <FileName>Address.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Admin" Collapsed="true">
+    <Position X="8.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEATAEEQAgACAAIAAQAQQRMoIwBIgCAAgyIKAIgANTI=</HashCode>
+      <FileName>Admin.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Date" Collapsed="true">
+    <Position X="10" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAQAAIAAAAAIAAAAIACAAAAAAEAQAAAAAIACAAA=</HashCode>
+      <FileName>Date.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DichVu" Collapsed="true">
+    <Position X="6.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAACAAAAQAAAAAAAAAAEAAAAAAIAAAA=</HashCode>
+      <FileName>DichVu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThongTinGiaoVien">
+    <Position X="1.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gADAEAAAAACQCYQAAAAEQBAMIABAhAAQEAgAgAS4qAU=</HashCode>
+      <FileName>GiaoVien.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThongTinKhachHang">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gACFFQAABACAAYQwBBAkQDAMAARAxAAREAgFgASYqAU=</HashCode>
+      <FileName>KhachHang.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LopTap" Collapsed="true">
+    <Position X="8.25" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgoAAARABMAAXAAAJACAAIAEAEAoAAAgIAYAAEBAAg=</HashCode>
+      <FileName>LopTap.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThietBi" Collapsed="true">
+    <Position X="10" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ThietBi.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ThongTinCaNhan" Collapsed="true">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAEAAAACAggAAAAAAAABAMAIAAgAAAAAAAAAAIIAI=</HashCode>
+      <FileName>ThongTinCaNhan.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Zumba" Collapsed="true">
+    <Position X="6.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACEAAAQAAAAAAAAAAAQAAAAAAAAAAAAANAAAAAAAQ=</HashCode>
+      <FileName>Zumba.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
